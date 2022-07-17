@@ -1,6 +1,6 @@
 # Getting Started with keeper React App
 
-## fork repository 
+### Clone repository 
 install dependencies 
 npm i
 ### `npm start`
